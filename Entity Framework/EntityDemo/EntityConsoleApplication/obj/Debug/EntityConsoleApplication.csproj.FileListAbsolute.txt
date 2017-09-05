@@ -1,0 +1,24 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityConsoleApplication.exe.config
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityConsoleApplication.exe
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityConsoleApplication.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityDemo.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityDemo.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\obj\Debug\EntityConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\obj\Debug\EntityConsoleApplication.exe
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityConsoleApplication\obj\Debug\EntityConsoleApplication.pdb
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityConsoleApplication.exe.config
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityConsoleApplication.exe
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityConsoleApplication.pdb
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityDemo.dll
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.dll
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityDemo.pdb
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.xml
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\obj\Debug\EntityConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\obj\Debug\EntityConsoleApplication.exe
+C:\Users\narayanswamy_s\Desktop\Dot Net Training Assignments\Entity Framework\EntityDemo\EntityConsoleApplication\obj\Debug\EntityConsoleApplication.pdb

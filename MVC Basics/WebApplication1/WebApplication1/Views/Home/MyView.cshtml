@@ -1,0 +1,25 @@
+﻿
+
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>View</h2>
+<h1>@Model[1].Name</h1>
+@foreach (var blog in Model)
+{
+    <h1>
+        <a href="@blog.URL">@blog.Name</a>
+    </h1>
+}
+
+<ul>
+
+    @foreach (var blog in Model)
+    {
+        <li>
+            <a href="@blog.URL">@blog.Name</a>
+        </li>
+    }
+
+</ul>

@@ -1,0 +1,5 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\Assignment22_08_Exception\MathLib\bin\Debug\MathLib.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\Assignment22_08_Exception\MathLib\bin\Debug\MathLib.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\Assignment22_08_Exception\MathLib\obj\Debug\MathLib.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\Assignment22_08_Exception\MathLib\obj\Debug\MathLib.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\Assignment22_08_Exception\MathLib\obj\Debug\MathLib.pdb

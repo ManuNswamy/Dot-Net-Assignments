@@ -1,0 +1,10 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\CodeBasedLibrary.dll.config
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\CodeBasedLibrary.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\CodeBasedLibrary.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\EntityFramework.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\EntityFramework.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\obj\Debug\CodeBasedLibrary.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\obj\Debug\CodeBasedLibrary.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedLibrary\CodeBasedLibrary\obj\Debug\CodeBasedLibrary.pdb

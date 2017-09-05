@@ -1,0 +1,12 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\CodeBasedEntityConsoleApplication.exe.config
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\CodeBasedEntityConsoleApplication.exe
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\CodeBasedEntityConsoleApplication.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\CodeBasedEntity.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\EntityFramework.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\CodeBasedEntity.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\EntityFramework.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\obj\Debug\CodeBasedEntityConsoleApplication.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\obj\Debug\CodeBasedEntityConsoleApplication.exe
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntityConsoleApplication\obj\Debug\CodeBasedEntityConsoleApplication.pdb

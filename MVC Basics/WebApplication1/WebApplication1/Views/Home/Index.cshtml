@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div>
+        <h1>HELLO WORLD</h1>
+        @ViewBag.MyMessage (<b>From Index View</b>)
+    </div>
+</body>
+</html>
+@{
+    ViewBag.Title = "View";
+}
+
+<h2>View</h2>
+<ul>
+
+    @foreach (var blog in Model)
+    {
+        <li>
+            <a href="@blog.URL">@blog.Name</a>
+        </li>
+    }
+
+</ul>
+

@@ -1,0 +1,13 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\CodeBasedEntity.dll.config
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\CodeBasedEntity.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\CodeBasedEntity.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\EntityFramework.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\EntityFramework.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\obj\Debug\CodeBasedEntity.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\obj\Debug\CodeBasedEntity.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\obj\Debug\CodeBasedEntity.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\obj\Debug\CodeBasedEntity.Migrations.InitialCreate.resources
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\obj\Debug\CodeBasedEntity.csproj.GenerateResource.Cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\CodeBasedEntity\CodeBasedEntity\obj\Debug\CodeBasedEntity.Migrations.AddUrl.resources

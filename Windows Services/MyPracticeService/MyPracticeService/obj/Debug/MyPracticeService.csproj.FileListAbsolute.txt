@@ -1,0 +1,9 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\bin\Debug\MyPracticeService.exe.config
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\bin\Debug\MyPracticeService.exe
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\bin\Debug\MyPracticeService.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\obj\Debug\MyPracticeService.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\obj\Debug\MyPracticeService.MyPracticeService.resources
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\obj\Debug\MyPracticeService.csproj.GenerateResource.Cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\obj\Debug\MyPracticeService.exe
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\obj\Debug\MyPracticeService.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\MyPracticeService\MyPracticeService\obj\Debug\MyPracticeService.ProjectInstaller.resources

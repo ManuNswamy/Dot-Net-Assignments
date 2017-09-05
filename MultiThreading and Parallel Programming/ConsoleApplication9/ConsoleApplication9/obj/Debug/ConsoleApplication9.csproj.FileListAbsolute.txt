@@ -1,0 +1,6 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\narayanswamy_s\Documents\Visual Studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\narayanswamy_s\Documents\Visual Studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\narayanswamy_s\Documents\Visual Studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.csprojResolveAssemblyReference.cache
+C:\Users\narayanswamy_s\Documents\Visual Studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\narayanswamy_s\Documents\Visual Studio 2015\Projects\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

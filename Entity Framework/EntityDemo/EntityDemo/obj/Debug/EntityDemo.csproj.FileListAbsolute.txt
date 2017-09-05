@@ -1,0 +1,10 @@
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityDemo.dll.config
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityDemo.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityDemo.pdb
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityFramework.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityFramework.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\obj\Debug\EntityDemo.csprojResolveAssemblyReference.cache
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\obj\Debug\EntityDemo.dll
+c:\users\narayanswamy_s\documents\visual studio 2015\Projects\EntityDemo\EntityDemo\obj\Debug\EntityDemo.pdb
