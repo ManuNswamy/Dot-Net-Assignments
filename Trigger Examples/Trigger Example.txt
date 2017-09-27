@@ -1,0 +1,99 @@
+CREATE TABLE Employee_Test
+(
+	EMP_ID INT IDENTITY,
+	EMP_NAME VARCHAR(100),
+	EMP_SAL DECIMAL(10,2)
+);
+
+CREATE TABLE Employee_Test_Audit
+(
+	EMP_ID INT,
+	EMP_NAME VARCHAR(100),
+	EMP_SAL DECIMAL(10,2),
+	AUDIT_ACTION varchar(100),
+	AUDIT_TIMESTAMP datetime
+);
+
+CREATE TRIGGER testTrigger ON [dbo].[Employee_Test]
+FOR INSERT
+AS
+	declare @empid int;
+	declare @empname varchar(100);
+	declare @empsal decimal(10,2);
+	declare @audit_action varchar(100);
+
+	select @empid = i.EMP_ID from inserted i;
+	select @empname = i.EMP_NAME from inserted i;
+	select @empid = i.EMP_SAL from inserted i;
+	set @audit_action = 'Inserted Record -- After Insert Trigger';
+
+	insert into Employee_Test_Audit(EMP_ID,EMP_NAME,EMP_SAL,AUDIT_ACTION,AUDIT_TIMESTAMP)
+	values(@empid,@empname,@empsal,@audit_action,GETDATE());
+
+	PRINT 'After Insert trigger fired'
+GO
+
+
+CREATE TRIGGER trgInsteadOfDelete ON [dbo].[Employee_Test]
+INSTEAD OF DELETE
+AS
+	declare @empid int;
+	declare @empname varchar(100);
+	declare @empsal decimal(10,2);
+
+	select @empid = d.EMP_ID from deleted d;
+	select @empname = d.EMP_NAME from deleted d;
+	select @empid = d.EMP_SAL from deleted d;
+
+	BEGIN
+		if(@empsal>1200)
+		begin
+			RAISERROR('Cannot Delete where salary >1200',16,1);
+			ROLLBACK;
+		end
+		else
+		begin
+			delete from Employee_Test where EMP_ID = @empid;
+			COMMIT;
+			insert into Employee_Test_Audit(EMP_ID,EMP_NAME,EMP_SAL,AUDIT_ACTION,AUDIT_TIMESTAMP)
+			values(@empid,@empname,@empsal,'Deleted-- Instead of Del',GETDATE())
+		end
+	END
+GO
+
+
+DELETE FROM Employee_Test where EMP_NAME like 'manu';
+
+INSERT INTO Employee_Test(EMP_NAME,EMP_SAL)VALUES('manu',10000);
+
+
+
+ALTER TABLE employee_test enable trigger all;
+ALTER TABLE employee_test_audit disable trigger all;
+delete from Employee_Test where emp_name like 'harshU'; 
+
+
+CREATE PROCEDURE EmployeeCount_Salary_Filter
+@salary decimal(10,2)
+AS
+BEGIN
+DECLARE @totalEmployee INT
+SELECT @totalEmployee = COUNT(EMP_ID) from Employee_Test where EMP_SAL = @salary
+PRINT @totalEmployee
+END
+GO
+
+EXEC EmployeeCount_Salary_Filter 100000
+
+
+CREATE FUNCTION GETCOUNT(@salary decimal(10,2))
+RETURNS INT
+BEGIN
+DECLARE @totalEmployee INT
+SELECT @totalEmployee = COUNT(Emp_ID) FROM Employee_Test where EMP_SAL > @salary
+RETURN @totalEmployee
+END
+
+SELECT total = DBO.GETCOUNT(100);
+
+

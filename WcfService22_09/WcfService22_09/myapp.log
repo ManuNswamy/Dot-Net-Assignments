@@ -1,0 +1,5 @@
+2017-09-22 11:21:04,363 [13] ERROR WcfService22_09.EmployeeService - ERROR MESSAGE FROM LOG4NET
+2017-09-22 11:30:45,151 [12] ERROR WcfService22_09.EmployeeService - ERROR MESSAGE FROM LOG4NET
+2017-09-22 11:43:26,410 [10] ERROR WcfService22_09.Logger - Error Message
+2017-09-22 12:11:00,402 [10] ERROR WcfService22_09.Logger - Error Message
+2017-09-22 12:14:04,265 [9] ERROR WcfService22_09.Logger - Error Message

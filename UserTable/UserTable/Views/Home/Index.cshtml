@@ -1,0 +1,81 @@
+﻿
+
+@model UserTable.Models.UserDetails
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <script src="~/scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $.get("GetAllUserDetails", null, BindData);
+ 
+        
+
+        function BindData(data) {
+            $("#resultTable").html("");
+            for (var i = 0; i < data.length; i++) {
+                var row = "<tr>" + "<td>" + data[i].Student_ID + "</td>" + "<td>" + data[i].Student_Name + "</td>" + "</tr>";
+                $("#resultTable").append(row);
+            }
+
+        }
+
+
+        function Search() {
+            var ID = $("#searchByID").val();
+            var Name = $("#searchByName").val()
+            $.post("SearchUserData", { Student_Name: Name }, BindData);
+        }
+     </script>
+</head>
+<body>
+    <div>
+           @using (Html.BeginForm("FormSubmitted", "Home", FormMethod.Post))
+               {
+                <table style="text-align:left">
+                <tr>
+                    <th>@Html.LabelFor(m => m.Student_ID)</th>
+                    <td>@Html.TextBoxFor(m => m.Student_ID, new { placeholder = "Enter ID" })</td>
+                </tr>
+                <tr>
+                    <th>@Html.LabelFor(m => m.Student_Name)</th>
+                    <td>@Html.TextBoxFor(m => m.Student_Name, new { placeholder = "Enter Name" })</td>
+                </tr>
+                <tr>
+                    <th>@Html.LabelFor(m => m.Student_Password)</th>
+                    <td>@Html.TextBoxFor(m => m.Student_Password, new { placeholder = "Enter Password" })</td>
+                </tr>
+                <tr>
+                    <td><button type="submit">Submit</button></td>
+                </tr>
+               </table>
+               }    
+        <table id="resultTable">
+            <thead>ID</thead>
+            <thead>Name</thead>
+        </table>
+         <table style="text-align:left">
+                <tr>
+                    <th>@Html.LabelFor(m => m.Student_ID)</th>
+                    <td>@Html.TextBoxFor(m => m.Student_ID, new { placeholder = "Enter ID", id="searchByID"})</td>
+                </tr>
+                <tr>
+                    <th>@Html.LabelFor(m => m.Student_Name)</th>
+                    <td>@Html.TextBoxFor(m => m.Student_Name, new { placeholder = "Enter Name", id = "searchByName" })</td>
+                </tr>
+                <tr>
+                    <td><button type="submit" onclick="Search()">Submit</button></td>
+                </tr>
+         </table>
+        
+        
+    </div>
+</body>
+</html>
